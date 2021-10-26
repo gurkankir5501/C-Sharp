@@ -1,0 +1,10 @@
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\bin\Debug\ReworkProject.exe.config
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\bin\Debug\ReworkProject.exe
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\bin\Debug\ReworkProject.pdb
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\obj\Debug\ReworkProject.csproj.AssemblyReference.cache
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\obj\Debug\ReworkProject.csproj.CoreCompileInputs.cache
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\obj\Debug\ReworkProject.exe
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\obj\Debug\ReworkProject.pdb
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gk\Desktop\kamp\C# Genel Tekrar\C-Sharp\ReworkProject\obj\Debug\ReworkProject.csproj.CopyComplete
